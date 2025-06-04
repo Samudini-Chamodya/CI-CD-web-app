@@ -1,6 +1,6 @@
 # My CI/CD Web Application
 
-A simple web application demonstrating CI/CD pipeline with AWS CodeBuild and CodePipeline. 
+A simple web application demonstrating CI/CD pipeline with AWS CodeBuild and CodePipeline.
 
 ## Features
 - Automatic deployment on code push
